@@ -8,9 +8,9 @@ The dataset contains clinical data from heart failure patients, including demogr
 The dataset used in this project is available on Kaggle: https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data?page=2
 
 ## Algorithms
-Logistic Regression
-Random Forest Classifier
-Decision Tree
+Logistic Regression<br>
+Random Forest Classifier<br>
+Decision Tree<br>
 XGBoost
 | Feature                      | Description                                                     |
 |------------------------------|-----------------------------------------------------------------|
