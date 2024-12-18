@@ -8,8 +8,10 @@ The dataset contains clinical data from heart failure patients, including demogr
 The dataset used in this project is available on Kaggle: https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data?page=2
 
 ## Algorithms
-**Logistic Regression**: A statistical model used to predict the probability of an event, in this case, the risk of heart failure.
-**Random Forest Classifier**: A classification algorithm that builds multiple decision trees and combines their outputs for better accuracy.
+**Logistic Regression**
+**Random Forest Classifier**
+**Decision Tree**
+**XGBoost**
 | Feature                      | Description                                                     |
 |------------------------------|-----------------------------------------------------------------|
 | **age**                      | Age of the patient                                             |
